@@ -1,0 +1,35 @@
+.modal__container {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+.modal__content {
+  background-color: var(--color-gris);
+  border-radius: var(--border);
+  padding: 1rem;
+  width: 350px;
+}
+
+.modal__title {
+  margin-bottom: 1rem;
+}
+
+.modal__header {
+  margin-bottom: 1rem;
+}
+
+.modal__footer {
+  margin-top: 2rem;
+  text-align: end;
+}
+
+.modal__footer button {
+  margin: 0 5px;
+}
