@@ -1,0 +1,39 @@
+.nav__container {
+  background-color: var(--color-dark-deep);
+  height: 70px;
+  position: relative;
+  width: 100%;
+}
+
+.nav__content {
+  align-items: center;
+  display: flex;
+  height: 70px;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 0.5rem;
+  width: 100%;
+}
+
+.nav__content img {
+  height: 50px;
+  width: 50px;
+}
+
+.nav__menu {
+  align-items: center;
+  display: flex;
+}
+
+.nav__menu li {
+  margin: 0 10px;
+}
+
+.nav__menu li a {
+  color: #bcb4b4;
+  text-transform: uppercase;
+  font-size: 13px;
+  transition: color 0.5s ease;
+}

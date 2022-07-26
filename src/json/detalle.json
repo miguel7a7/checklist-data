@@ -1,0 +1,1084 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "Función": "1. IDENTIFICAR (ID)",
+      "Categoría": "1. Gestión de activos (ID.AM)",
+      "Descripción categoría": " Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma  coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización. ",
+      "Subcategoría": "ID.AM-1",
+      "Descripción Subcategoría": " Los dispositivos y sistemas físicos dentro de la organización están inventariados. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 2,
+      "Función": "1. IDENTIFICAR (ID)",
+      "Categoría": "1. Gestión de activos (ID.AM)",
+      "Descripción categoría": " Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma  coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización. ",
+      "Subcategoría ": "ID.AM-2",
+      "Descripción Subcategoría": " Las plataformas de software y las aplicaciones dentro de la organización están inventariadas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 3,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "1. Gestión de activos (ID.AM)",
+      "Descripción categoría": " Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma  coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización. ",
+      "Subcategoría ": "ID.AM-3",
+      "Descripción Subcategoría": " La comunicación organizacional y los flujos de datos están mapeados. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 4,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "1. Gestión de activos (ID.AM)",
+      "Descripción categoría": " Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma  coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización. ",
+      "Subcategoría ": "ID.AM-4",
+      "Descripción Subcategoría": " Los sistemas de información externos están catalogados. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 5,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "1. Gestión de activos (ID.AM)",
+      "Descripción categoría": " Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma  coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización. ",
+      "Subcategoría ": "ID.AM-5",
+      "Descripción Subcategoría": " Los recursos (por ejemplo, hardware, dispositivos, datos, tiempo, personal y software) se priorizan en función  de su clasificación, criticidad y valor comercial. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 6,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "1. Gestión de activos (ID.AM)",
+      "Descripción categoría": " Los datos, el personal, los dispositivos, los sistemas y las instalaciones que permiten a la organización alcanzar los objetivos empresariales se identifican y se administran de forma  coherente con su importancia relativa para los objetivos organizativos y la estrategia de riesgos de la organización. ",
+      "Subcategoría ": "ID.AM-6",
+      "Descripción Subcategoría": " Los roles y las responsabilidades de la seguridad cibernética para toda la fuerza de trabajo y terceros interesados  (por ejemplo, proveedores, clientes, socios) están establecidas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 80
+    },
+    {
+      "id": 7,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "2. Entorno empresarial (ID.BE)",
+      "Descripción categoría": " Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética. ",
+      "Subcategoría ": "ID.BE-1",
+      "Descripción Subcategoría": " Se identifica y se comunica la función de la organización en la cadena de suministro. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 8,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "2. Entorno empresarial (ID.BE)",
+      "Descripción categoría": " Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética. ",
+      "Subcategoría ": "ID.BE-2",
+      "Descripción Subcategoría": " Se identifica y se comunica el lugar de la organización en la infraestructura crítica y su sector industrial. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 80
+    },
+    {
+      "id": 9,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "2. Entorno empresarial (ID.BE)",
+      "Descripción categoría": " Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética. ",
+      "Subcategoría ": "ID.BE-3",
+      "Descripción Subcategoría": " Se establecen y se comunican las prioridades para la misión, los objetivos y las actividades de la organización. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 10,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "2. Entorno empresarial (ID.BE)",
+      "Descripción categoría": " Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética. ",
+      "Subcategoría ": "ID.BE-4",
+      "Descripción Subcategoría": " Se establecen las dependencias y funciones fundamentales para la entrega de servicios críticos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 11,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "2. Entorno empresarial (ID.BE)",
+      "Descripción categoría": " Se entienden y se priorizan la misión, los objetivos, las partes interesadas y las actividades de la organización; esta información se utiliza para informar los roles, responsabilidades y decisiones de gestión de los riesgos de seguridad cibernética. ",
+      "Subcategoría ": "ID.BE-5",
+      "Descripción Subcategoría": " Los requisitos de resiliencia para respaldar la entrega de servicios críticos se establecen para todos los estados operativos (p. ej. bajo coacción o ataque, durante la recuperación y operaciones normales). ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 12,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "3. Gobernanza (ID.GV)",
+      "Descripción categoría": " Las políticas, los procedimientos y los procesos para administrar y monitorear los requisitos  regulatorios, legales, de riesgo, ambientales y operativos de la organización se comprenden y se informan a la gestión del riesgo de seguridad cibernética. ",
+      "Subcategoría ": "ID.GV-1",
+      "Descripción Subcategoría": " Se establece y se comunica la política de seguridad cibernética organizacional. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 33
+    },
+    {
+      "id": 13,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "3. Gobernanza (ID.GV)",
+      "Descripción categoría": " Las políticas, los procedimientos y los procesos para administrar y monitorear los requisitos  regulatorios, legales, de riesgo, ambientales y operativos de la organización se comprenden y se informan a la gestión del riesgo de seguridad cibernética. ",
+      "Subcategoría ": "ID.GV-2",
+      "Descripción Subcategoría": " Los roles y las responsabilidades de seguridad cibernética están coordinados y alineados con roles internos y socios externos.  ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 14,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "3. Gobernanza (ID.GV)",
+      "Descripción categoría": " Las políticas, los procedimientos y los procesos para administrar y monitorear los requisitos  regulatorios, legales, de riesgo, ambientales y operativos de la organización se comprenden y se informan a la gestión del riesgo de seguridad cibernética. ",
+      "Subcategoría ": "ID.GV-3",
+      "Descripción Subcategoría": " Se comprenden y se gestionan los requisitos legales y regulatorios con respecto a la seguridad cibernética, incluidas las obligaciones de privacidad y libertades civiles. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 40
+    },
+    {
+      "id": 15,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "3. Gobernanza (ID.GV)",
+      "Descripción categoría": " Las políticas, los procedimientos y los procesos para administrar y monitorear los requisitos  regulatorios, legales, de riesgo, ambientales y operativos de la organización se comprenden y se informan a la gestión del riesgo de seguridad cibernética. ",
+      "Subcategoría ": "ID.GV-4",
+      "Descripción Subcategoría": " Los procesos de gobernanza y gestión de riesgos abordan los riesgos de seguridad cibernética. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 30
+    },
+    {
+      "id": 16,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "4. Evaluación de riesgos (ID.RA)",
+      "Descripción categoría": " La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.  ",
+      "Subcategoría ": "ID.RA-1",
+      "Descripción Subcategoría": " Se identifican y se documentan las vulnerabilidades de los activos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 80
+    },
+    {
+      "id": 17,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "4. Evaluación de riesgos (ID.RA)",
+      "Descripción categoría": " La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.  ",
+      "Subcategoría ": "ID.RA-2",
+      "Descripción Subcategoría": " La inteligencia de amenazas cibernéticas se recibe de foros y fuentes de intercambio de información. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 30
+    },
+    {
+      "id": 18,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "4. Evaluación de riesgos (ID.RA)",
+      "Descripción categoría": " La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.  ",
+      "Subcategoría ": "ID.RA-3",
+      "Descripción Subcategoría": " Se identifican y se documentan las amenazas, tanto internas como externas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 19,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "4. Evaluación de riesgos (ID.RA)",
+      "Descripción categoría": " La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.  ",
+      "Subcategoría ": "ID.RA-4",
+      "Descripción Subcategoría": " Se identifican los impactos y las probabilidades del negocio. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 20,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "4. Evaluación de riesgos (ID.RA)",
+      "Descripción categoría": " La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.  ",
+      "Subcategoría ": "ID.RA-5",
+      "Descripción Subcategoría": " Se utilizan las amenazas, las vulnerabilidades, las probabilidades y los impactos para determinar el riesgo. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 40
+    },
+    {
+      "id": 21,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "4. Evaluación de riesgos (ID.RA)",
+      "Descripción categoría": " La organización comprende el riesgo de seguridad cibernética para las operaciones de la organización (incluida la misión, las funciones, la imagen o la reputación), los activos de la organización y las personas.  ",
+      "Subcategoría ": "ID.RA-6",
+      "Descripción Subcategoría": " Se identifican y priorizan las respuestas al riesgo.  ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 22,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "5. Estrategia de gestión de riesgos (ID.RM)",
+      "Descripción categoría": " Se establecen las prioridades, restricciones, tolerancias de riesgo y suposiciones de la organización y se usan para respaldar las decisiones de riesgos operacionales. ",
+      "Subcategoría ": "ID.RM-1",
+      "Descripción Subcategoría": " Los actores de la organización establecen, gestionan y acuerdan los procesos de gestión de riesgos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 23,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "5. Estrategia de gestión de riesgos (ID.RM)",
+      "Descripción categoría": " Se establecen las prioridades, restricciones, tolerancias de riesgo y suposiciones de la organización y se usan para respaldar las decisiones de riesgos operacionales. ",
+      "Subcategoría ": "ID.RM-2",
+      "Descripción Subcategoría": " La tolerancia al riesgo organizacional se determina y se expresa claramente. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 24,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "5. Estrategia de gestión de riesgos (ID.RM)",
+      "Descripción categoría": " Se establecen las prioridades, restricciones, tolerancias de riesgo y suposiciones de la organización y se usan para respaldar las decisiones de riesgos operacionales. ",
+      "Subcategoría ": "ID.RM-3",
+      "Descripción Subcategoría": " La determinación de la tolerancia del riesgo de la organización se basa en parte en su rol en la infraestructura crítica y el análisis del riesgo específico del sector. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 25
+    },
+    {
+      "id": 25,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "6. Gestión del riesgo de la cadena de suministro (ID.SC)",
+      "Descripción categoría": " Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.  ",
+      "Subcategoría ": "ID.SC-1",
+      "Descripción Subcategoría": " Los actores de la organización identifican, establecen, evalúan, gestionan y acuerdan los procesos de gestión del riesgo de la cadena de suministro cibernética. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 80
+    },
+    {
+      "id": 26,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "6. Gestión del riesgo de la cadena de suministro (ID.SC)",
+      "Descripción categoría": " Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.  ",
+      "Subcategoría ": "ID.SC-2",
+      "Descripción Subcategoría": " Los proveedores y socios externos de los sistemas de información, componentes y servicios se identifican, se priorizan y se evalúan mediante un proceso de evaluación de riesgos de la cadena de suministro cibernético.  ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 27,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "6. Gestión del riesgo de la cadena de suministro (ID.SC)",
+      "Descripción categoría": " Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.  ",
+      "Subcategoría ": "ID.SC-3",
+      "Descripción Subcategoría": " Los contratos con proveedores y socios externos se utilizan para implementar medidas apropiadas diseñadas para cumplir con los objetivos del programa de seguridad cibernética de una organización y el plan de gestión de riesgos de la cadena de suministro cibernético. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 28,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "6. Gestión del riesgo de la cadena de suministro (ID.SC)",
+      "Descripción categoría": " Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.  ",
+      "Subcategoría ": "ID.SC-4",
+      "Descripción Subcategoría": " Los proveedores y los socios externos se evalúan de forma rutinaria mediante auditorías, resultados de pruebas u otras formas de evaluación para confirmar que cumplen con sus obligaciones contractuales. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 29,
+      "Función ": "1. IDENTIFICAR (ID)",
+      "Categoría ": "6. Gestión del riesgo de la cadena de suministro (ID.SC)",
+      "Descripción categoría": " Las prioridades, limitaciones, tolerancias de riesgo y suposiciones de la organización se establecen y se utilizan para respaldar las decisiones de riesgo asociadas con la gestión del riesgo de la cadena de suministro. La organización ha establecido e implementado los procesos para identificar, evaluar y gestionar los riesgos de la cadena de suministro.  ",
+      "Subcategoría ": "ID.SC-5",
+      "Descripción Subcategoría": " Las pruebas y la planificación de respuesta y recuperación se llevan a cabo con proveedores.  ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 80
+    },
+    {
+      "id": 30,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "1. Gestión de identidad, autenticación y control de acceso  (PR.AC)",
+      "Descripción categoría": " El acceso a los activos físicos y lógicos y a las instalaciones asociadas está limitado a los usuarios, procesos y dispositivos autorizados, y se administra de forma coherente con el riesgo evaluado de acceso no autorizado a actividades autorizadas y transacciones.  ",
+      "Subcategoría ": "PR.AC-1",
+      "Descripción Subcategoría": " Las identidades y credenciales se emiten, se administran, se verifican, se revocan y se auditan para los dispositivos, usuarios y procesos autorizados. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 31,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "1. Gestión de identidad, autenticación y control de acceso  (PR.AC)",
+      "Descripción categoría": " El acceso a los activos físicos y lógicos y a las instalaciones asociadas está limitado a los usuarios, procesos y dispositivos autorizados, y se administra de forma coherente con el riesgo evaluado de acceso no autorizado a actividades autorizadas y transacciones.  ",
+      "Subcategoría ": "PR.AC-2",
+      "Descripción Subcategoría": " Se gestiona y se protege el acceso físico a los activos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 32,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "1. Gestión de identidad, autenticación y control de acceso  (PR.AC)",
+      "Descripción categoría": " El acceso a los activos físicos y lógicos y a las instalaciones asociadas está limitado a los usuarios, procesos y dispositivos autorizados, y se administra de forma coherente con el riesgo evaluado de acceso no autorizado a actividades autorizadas y transacciones.  ",
+      "Subcategoría ": "PR.AC-3",
+      "Descripción Subcategoría": " Se gestiona el acceso remoto. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 33,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "1. Gestión de identidad, autenticación y control de acceso  (PR.AC)",
+      "Descripción categoría": " El acceso a los activos físicos y lógicos y a las instalaciones asociadas está limitado a los usuarios, procesos y dispositivos autorizados, y se administra de forma coherente con el riesgo evaluado de acceso no autorizado a actividades autorizadas y transacciones.  ",
+      "Subcategoría ": "PR.AC-4",
+      "Descripción Subcategoría": " Se gestionan los permisos y autorizaciones de acceso con incorporación de los principios de menor privilegio y separación de funciones.  ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 34,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "1. Gestión de identidad, autenticación y control de acceso  (PR.AC)",
+      "Descripción categoría": " El acceso a los activos físicos y lógicos y a las instalaciones asociadas está limitado a los usuarios, procesos y dispositivos autorizados, y se administra de forma coherente con el riesgo evaluado de acceso no autorizado a actividades autorizadas y transacciones.  ",
+      "Subcategoría ": "PR.AC-5",
+      "Descripción Subcategoría": " Se protege la integridad de la red (por ejemplo, segregación de la red, segmentación de la red).  ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 35,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "1. Gestión de identidad, autenticación y control de acceso  (PR.AC)",
+      "Descripción categoría": " El acceso a los activos físicos y lógicos y a las instalaciones asociadas está limitado a los usuarios, procesos y dispositivos autorizados, y se administra de forma coherente con el riesgo evaluado de acceso no autorizado a actividades autorizadas y transacciones.  ",
+      "Subcategoría ": "PR.AC-6",
+      "Descripción Subcategoría": " Las identidades son verificadas y vinculadas a credenciales y afirmadas en las interacciones. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 36,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "1. Gestión de identidad, autenticación y control de acceso  (PR.AC)",
+      "Descripción categoría": " El acceso a los activos físicos y lógicos y a las instalaciones asociadas está limitado a los usuarios, procesos y dispositivos autorizados, y se administra de forma coherente con el riesgo evaluado de acceso no autorizado a actividades autorizadas y transacciones.  ",
+      "Subcategoría ": "PR.AC-7",
+      "Descripción Subcategoría": " Se autentican los usuarios, dispositivos y otros activos (por ejemplo, autenticación de un solo factor o múltiples factores) acorde al riesgo de la transacción (por ejemplo, riesgos de seguridad y privacidad de individuos y otros riesgos para las organizaciones). ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 37,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "2. Concienciación y capacitación (PR.AT)",
+      "Descripción categoría": " El personal y los socios de la organización reciben educación de concienciación sobre la seguridad cibernética y son capacitados para cumplir con sus deberes y responsabilidades relacionados con la seguridad cibernética, en conformidad con las políticas, los procedimientos y los acuerdos relacionados al campo. ",
+      "Subcategoría ": "PR.AT-1",
+      "Descripción Subcategoría": " Todos los usuarios están informados y capacitados. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 38,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "2. Concienciación y capacitación (PR.AT)",
+      "Descripción categoría": " El personal y los socios de la organización reciben educación de concienciación sobre la seguridad cibernética y son capacitados para cumplir con sus deberes y responsabilidades relacionados con la seguridad cibernética, en conformidad con las políticas, los procedimientos y los acuerdos relacionados al campo. ",
+      "Subcategoría ": "PR.AT-2",
+      "Descripción Subcategoría": " Los usuarios privilegiados comprenden sus roles y responsabilidades. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 39,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "2. Concienciación y capacitación (PR.AT)",
+      "Descripción categoría": " El personal y los socios de la organización reciben educación de concienciación sobre la seguridad cibernética y son capacitados para cumplir con sus deberes y responsabilidades relacionados con la seguridad cibernética, en conformidad con las políticas, los procedimientos y los acuerdos relacionados al campo. ",
+      "Subcategoría ": "PR.AT-3",
+      "Descripción Subcategoría": " Los terceros interesados (por ejemplo, proveedores, clientes, socios) comprenden sus roles y responsabilidades. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 40,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "2. Concienciación y capacitación (PR.AT)",
+      "Descripción categoría": " El personal y los socios de la organización reciben educación de concienciación sobre la seguridad cibernética y son capacitados para cumplir con sus deberes y responsabilidades relacionados con la seguridad cibernética, en conformidad con las políticas, los procedimientos y los acuerdos relacionados al campo. ",
+      "Subcategoría ": "PR.AT-4",
+      "Descripción Subcategoría": " Los ejecutivos superiores comprenden sus roles y responsabilidades. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 41,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "2. Concienciación y capacitación (PR.AT)",
+      "Descripción categoría": " El personal y los socios de la organización reciben educación de concienciación sobre la seguridad cibernética y son capacitados para cumplir con sus deberes y responsabilidades relacionados con la seguridad cibernética, en conformidad con las políticas, los procedimientos y los acuerdos relacionados al campo. ",
+      "Subcategoría ": "PR.AT-5",
+      "Descripción Subcategoría": " El personal de seguridad física y cibernética comprende sus roles y responsabilidades. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 42,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "3. Seguridad de los datos (PR.DS)",
+      "Descripción categoría": " La información y los registros (datos) se gestionan en función de la estrategia de riesgo de la organización para proteger la confidencialidad, integridad y disponibilidad de la información.  ",
+      "Subcategoría ": "PR.DS-1",
+      "Descripción Subcategoría": " Los datos en reposo están protegidos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 43,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "3. Seguridad de los datos (PR.DS)",
+      "Descripción categoría": " La información y los registros (datos) se gestionan en función de la estrategia de riesgo de la organización para proteger la confidencialidad, integridad y disponibilidad de la información.  ",
+      "Subcategoría ": " PR.DS-2",
+      "Descripción Subcategoría": " Los datos en tránsito están protegidos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 44,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "3. Seguridad de los datos (PR.DS)",
+      "Descripción categoría": " La información y los registros (datos) se gestionan en función de la estrategia de riesgo de la organización para proteger la confidencialidad, integridad y disponibilidad de la información.  ",
+      "Subcategoría ": "PR.DS-3",
+      "Descripción Subcategoría": " Los activos se gestionan formalmente durante la eliminación, las transferencias y la disposición. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 45,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "3. Seguridad de los datos (PR.DS)",
+      "Descripción categoría": " La información y los registros (datos) se gestionan en función de la estrategia de riesgo de la organización para proteger la confidencialidad, integridad y disponibilidad de la información.  ",
+      "Subcategoría ": "PR.DS-4",
+      "Descripción Subcategoría": " Se mantiene una capacidad adecuada para asegurar la disponibilidad. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 46,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "3. Seguridad de los datos (PR.DS)",
+      "Descripción categoría": " La información y los registros (datos) se gestionan en función de la estrategia de riesgo de la organización para proteger la confidencialidad, integridad y disponibilidad de la información.  ",
+      "Subcategoría ": "PR.DS-5",
+      "Descripción Subcategoría": " Se implementan protecciones contra las filtraciones de datos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 47,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "3. Seguridad de los datos (PR.DS)",
+      "Descripción categoría": " La información y los registros (datos) se gestionan en función de la estrategia de riesgo de la organización para proteger la confidencialidad, integridad y disponibilidad de la información.  ",
+      "Subcategoría ": "PR.DS-6",
+      "Descripción Subcategoría": " Se utilizan mecanismos de comprobación de la integridad para verificar el software, el firmware y la integridad de la información. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 48,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "3. Seguridad de los datos (PR.DS)",
+      "Descripción categoría": " La información y los registros (datos) se gestionan en función de la estrategia de riesgo de la organización para proteger la confidencialidad, integridad y disponibilidad de la información.  ",
+      "Subcategoría ": "PR.DS-7",
+      "Descripción Subcategoría": " Los entornos de desarrollo y prueba(s) están separados del entorno de producción. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 49,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "3. Seguridad de los datos (PR.DS)",
+      "Descripción categoría": " La información y los registros (datos) se gestionan en función de la estrategia de riesgo de la organización para proteger la confidencialidad, integridad y disponibilidad de la información.  ",
+      "Subcategoría ": "PR.DS-8",
+      "Descripción Subcategoría": " Se utilizan mecanismos de comprobación de la integridad para verificar la integridad del hardware. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 50,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-1",
+      "Descripción Subcategoría": " Se crea y se mantiene una configuración de base de los sistemas de control industrial y de tecnología de la información con incorporación de los principios de seguridad (por ejemplo, el concepto de funcionalidad mínima). ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 51,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-2",
+      "Descripción Subcategoría": " Se implementa un ciclo de vida de desarrollo del sistema para gestionar los sistemas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 52,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-3",
+      "Descripción Subcategoría": " Se encuentran establecidos procesos de control de cambio de la configuración. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 53,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-4",
+      "Descripción Subcategoría": " Se realizan, se mantienen y se prueban copias de seguridad de la información. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 10
+    },
+    {
+      "id": 54,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-5",
+      "Descripción Subcategoría": " Se cumplen las regulaciones y la política con respecto al entorno operativo físico para los activos organizativos",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 55,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-6",
+      "Descripción Subcategoría": " Los datos son eliminados de acuerdo con las políticas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 56,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-7",
+      "Descripción Subcategoría": " Se mejoran los procesos de protección. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 57,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-8",
+      "Descripción Subcategoría": " Se comparte la efectividad de las tecnologías de protección. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 58,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-9",
+      "Descripción Subcategoría": " Se encuentran establecidos y se gestionan planes de respuesta (Respuesta a Incidentes y Continuidad del Negocio) y planes de recuperación (Recuperación de Incidentes y Recuperación de Desastres). ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 10
+    },
+    {
+      "id": 59,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-10",
+      "Descripción Subcategoría": " Se prueban los planes de respuesta y recuperación. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 25
+    },
+    {
+      "id": 60,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-11",
+      "Descripción Subcategoría": " La seguridad cibernética se encuentra incluida en las prácticas de recursos humanos (por ejemplo, desaprovisionamiento, selección del personal). ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 61,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "4. Procesos y procedimientos de protección de la información (PR.IP)",
+      "Descripción categoría": " Se mantienen y se utilizan políticas de seguridad (que abordan el propósito, el alcance, los roles, las responsabilidades, el compromiso de la jefatura y la coordinación entre las entidades de la organización), procesos y procedimientos para gestionar la protección de los sistemas de información y los activos.  ",
+      "Subcategoría ": "PR.IP-12",
+      "Descripción Subcategoría": " Se desarrolla y se implementa un plan de gestión de las vulnerabilidades. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 85
+    },
+    {
+      "id": 62,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "5. Mantenimiento (PR.MA)",
+      "Descripción categoría": " El mantenimiento y la reparación de los componentes del sistema de  información y del control industrial se realizan de acuerdo con las políticas y los procedimientos. ",
+      "Subcategoría ": "PR.MA-1",
+      "Descripción Subcategoría": " El mantenimiento y la reparación de los activos de la organización se realizan y están registrados con herramientas aprobadas y controladas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 63,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "5. Mantenimiento (PR.MA)",
+      "Descripción categoría": " El mantenimiento y la reparación de los componentes del sistema de  información y del control industrial se realizan de acuerdo con las políticas y los procedimientos. ",
+      "Subcategoría ": "PR.MA-2",
+      "Descripción Subcategoría": " El mantenimiento remoto de los activos de la organización se aprueba, se registra y se realiza de manera que evite el acceso no autorizado. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 64,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "6. Tecnología de protección (PR.PT)",
+      "Descripción categoría": " Las soluciones técnicas de seguridad se gestionan para garantizar la seguridad y la capacidad de recuperación de los sistemas y activos, en consonancia con las políticas, procedimientos y acuerdos relacionados. ",
+      "Subcategoría ": "PR.PT-1",
+      "Descripción Subcategoría": " Los registros de auditoría o archivos se determinan, se documentan, se implementan y se revisan en conformidad con la política. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 65,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "6. Tecnología de protección (PR.PT)",
+      "Descripción categoría": " Las soluciones técnicas de seguridad se gestionan para garantizar la seguridad y la capacidad de recuperación de los sistemas y activos, en consonancia con las políticas, procedimientos y acuerdos relacionados. ",
+      "Subcategoría ": "PR.PT-2",
+      "Descripción Subcategoría": " Los medios extraíbles están protegidos y su uso se encuentra restringido de acuerdo con la política. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 66,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "6. Tecnología de protección (PR.PT)",
+      "Descripción categoría": " Las soluciones técnicas de seguridad se gestionan para garantizar la seguridad y la capacidad de recuperación de los sistemas y activos, en consonancia con las políticas, procedimientos y acuerdos relacionados. ",
+      "Subcategoría ": "PR.PT-3",
+      "Descripción Subcategoría": " Se incorpora el principio de menor funcionalidad mediante la configuración de los sistemas para proporcionar solo las capacidades esenciales. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 67,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "6. Tecnología de protección (PR.PT)",
+      "Descripción categoría": " Las soluciones técnicas de seguridad se gestionan para garantizar la seguridad y la capacidad de recuperación de los sistemas y activos, en consonancia con las políticas, procedimientos y acuerdos relacionados. ",
+      "Subcategoría ": "PR.PT-4",
+      "Descripción Subcategoría": " Las redes de comunicaciones y control están protegidas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 68,
+      "Función ": "2. PROTEGER (PR) ",
+      "Categoría ": "6. Tecnología de protección (PR.PT)",
+      "Descripción categoría": " Las soluciones técnicas de seguridad se gestionan para garantizar la seguridad y la capacidad de recuperación de los sistemas y activos, en consonancia con las políticas, procedimientos y acuerdos relacionados. ",
+      "Subcategoría ": "PR.PT-5",
+      "Descripción Subcategoría": " Se implementan mecanismos (por ejemplo, a prueba de fallas, equilibrio de carga, cambio en caliente o “hot swap”) para lograr los requisitos de resiliencia en situaciones normales y adversas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 10
+    },
+    {
+      "id": 69,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "1. Anomalías y Eventos (DE.AE)",
+      "Descripción categoría": "Se detecta actividad anómala y se comprende el impacto potencial de los eventos",
+      "Subcategoría ": "DE.AE-1",
+      "Descripción Subcategoría": " Se establece y se gestiona una  base de referencia para operaciones de red y flujos de datos esperados para los usuarios y sistemas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 70,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "1. Anomalías y Eventos (DE.AE)",
+      "Descripción categoría": "Se detecta actividad anómala y se comprende el impacto potencial de los eventos",
+      "Subcategoría ": "DE.AE-2",
+      "Descripción Subcategoría": " Se analizan los eventos detectados para comprender los objetivos y métodos de ataque. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 71,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "1. Anomalías y Eventos (DE.AE)",
+      "Descripción categoría": "Se detecta actividad anómala y se comprende el impacto potencial de los eventos",
+      "Subcategoría ": "DE.AE-3",
+      "Descripción Subcategoría": " Cos datos de los eventos se recopilan y se correlacionan de múltiples fuentes y sensores. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 72,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "1. Anomalías y Eventos (DE.AE)",
+      "Descripción categoría": "Se detecta actividad anómala y se comprende el impacto potencial de los eventos",
+      "Subcategoría ": "DE.AE-4",
+      "Descripción Subcategoría": " Se determina el impacto de los eventos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 73,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "1. Anomalías y Eventos (DE.AE)",
+      "Descripción categoría": "Se detecta actividad anómala y se comprende el impacto potencial de los eventos",
+      "Subcategoría ": "DE.AE-5",
+      "Descripción Subcategoría": " Se establecen umbrales de alerta de incidentes. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 80
+    },
+    {
+      "id": 74,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "2. Monitoreo Continuo de la  Seguridad (DE.CM)",
+      "Descripción categoría": " El sistema de información y los activos son  monitoreados a fin de identificar eventos de seguridad cibernética y verificar la eficacia de las medidas de protección",
+      "Subcategoría ": "DE.CM-1",
+      "Descripción Subcategoría": " Se monitorea la red para detectar posibles eventos de seguridad cibernética. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 75,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "2. Monitoreo Continuo de la  Seguridad (DE.CM)",
+      "Descripción categoría": " El sistema de información y los activos son  monitoreados a fin de identificar eventos de seguridad cibernética y verificar la eficacia de las medidas de protección",
+      "Subcategoría ": "DE.CM-2",
+      "Descripción Subcategoría": " Se monitorea el entorno físico para detectar posibles eventos de seguridad cibernética. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 80
+    },
+    {
+      "id": 76,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "2. Monitoreo Continuo de la  Seguridad (DE.CM)",
+      "Descripción categoría": " El sistema de información y los activos son  monitoreados a fin de identificar eventos de seguridad cibernética y verificar la eficacia de las medidas de protección",
+      "Subcategoría ": "DE.CM-3",
+      "Descripción Subcategoría": " Se monitorea la actividad del personal para detectar posibles eventos de seguridad cibernética. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 77,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "2. Monitoreo Continuo de la  Seguridad (DE.CM)",
+      "Descripción categoría": " El sistema de información y los activos son  monitoreados a fin de identificar eventos de seguridad cibernética y verificar la eficacia de las medidas de protección",
+      "Subcategoría ": "DE.CM-4",
+      "Descripción Subcategoría": " Se detecta el código malicioso. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 78,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "2. Monitoreo Continuo de la  Seguridad (DE.CM)",
+      "Descripción categoría": " El sistema de información y los activos son  monitoreados a fin de identificar eventos de seguridad cibernética y verificar la eficacia de las medidas de protección",
+      "Subcategoría ": "DE.CM-5",
+      "Descripción Subcategoría": " Se detecta el código móvil no autorizado. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 79,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "2. Monitoreo Continuo de la  Seguridad (DE.CM)",
+      "Descripción categoría": " El sistema de información y los activos son  monitoreados a fin de identificar eventos de seguridad cibernética y verificar la eficacia de las medidas de protección",
+      "Subcategoría ": "DE.CM-6",
+      "Descripción Subcategoría": " Se monitorea la actividad de los proveedores de servicios externos para detectar posibles eventos de seguridad cibernética. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 75
+    },
+    {
+      "id": 80,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "2. Monitoreo Continuo de la  Seguridad (DE.CM)",
+      "Descripción categoría": " El sistema de información y los activos son  monitoreados a fin de identificar eventos de seguridad cibernética y verificar la eficacia de las medidas de protección",
+      "Subcategoría ": "DE.CM-7",
+      "Descripción Subcategoría": " Se realiza el monitoreo del personal, conexiones, dispositivos y software no autorizados. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 81,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "2. Monitoreo Continuo de la  Seguridad (DE.CM)",
+      "Descripción categoría": " El sistema de información y los activos son  monitoreados a fin de identificar eventos de seguridad cibernética y verificar la eficacia de las medidas de protección",
+      "Subcategoría ": "DE.CM-8",
+      "Descripción Subcategoría": " Se realizan escaneos de vulnerabilidades. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 82,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "3. Procesos de Detección (DE.DP)",
+      "Descripción categoría": " Se mantienen y se aprueban los procesos y procedimientos de detección para garantizar el conocimiento de los eventos anómalos. ",
+      "Subcategoría ": "DE.DP-1",
+      "Descripción Subcategoría": " Los roles y los deberes de detección están bien definidos para asegurar la responsabilidad. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 83,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "3. Procesos de Detección (DE.DP)",
+      "Descripción categoría": " Se mantienen y se aprueban los procesos y procedimientos de detección para garantizar el conocimiento de los eventos anómalos. ",
+      "Subcategoría ": "DE.DP-2",
+      "Descripción Subcategoría": " Las actividades de detección cumplen con todos los requisitos aplicables. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 84,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "3. Procesos de Detección (DE.DP)",
+      "Descripción categoría": " Se mantienen y se aprueban los procesos y procedimientos de detección para garantizar el conocimiento de los eventos anómalos. ",
+      "Subcategoría ": "DE.DP-3",
+      "Descripción Subcategoría": " Se prueban los procesos de detección. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 85,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "3. Procesos de Detección (DE.DP)",
+      "Descripción categoría": " Se mantienen y se aprueban los procesos y procedimientos de detección para garantizar el conocimiento de los eventos anómalos. ",
+      "Subcategoría ": "DE.DP-4",
+      "Descripción Subcategoría": " Se comunica la información de la detección de eventos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 86,
+      "Función ": "3. DETECTAR (DE) ",
+      "Categoría ": "3. Procesos de Detección (DE.DP)",
+      "Descripción categoría": " Se mantienen y se aprueban los procesos y procedimientos de detección para garantizar el conocimiento de los eventos anómalos. ",
+      "Subcategoría ": "DE.DP-5",
+      "Descripción Subcategoría": " los procesos de detección se mejoran continuamente. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 87,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "1. Planificación de la Respuesta (RS.RP)",
+      "Descripción categoría": " Los procesos y procedimientos de respuesta se ejecutan y se mantienen a fin de garantizar la respuesta a los incidentes de seguridad cibernética detectados. ",
+      "Subcategoría ": "RS.RP-1",
+      "Descripción Subcategoría": " El plan de respuesta se ejecuta durante o después de un incidente. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 88,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "2. Comunicaciones (RS.CO)",
+      "Descripción categoría": " Las actividades de respuesta se coordinan con las partes interesadas internas y externas (por ejemplo, el apoyo externo de organismos encargados de hacer cumplir la ley). ",
+      "Subcategoría ": "RS.CO-1",
+      "Descripción Subcategoría": " El personal conoce sus roles y el orden de las operaciones cuando se necesita una respuesta. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 89,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "2. Comunicaciones (RS.CO)",
+      "Descripción categoría": " Las actividades de respuesta se coordinan con las partes interesadas internas y externas (por ejemplo, el apoyo externo de organismos encargados de hacer cumplir la ley). ",
+      "Subcategoría ": "RS.CO-2",
+      "Descripción Subcategoría": " Los incidentes se informan de acuerdo con los criterios establecidos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 90,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "2. Comunicaciones (RS.CO)",
+      "Descripción categoría": " Las actividades de respuesta se coordinan con las partes interesadas internas y externas (por ejemplo, el apoyo externo de organismos encargados de hacer cumplir la ley). ",
+      "Subcategoría ": "RS.CO-3",
+      "Descripción Subcategoría": " La información se comparte de acuerdo con los planes de respuesta. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 91,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "2. Comunicaciones (RS.CO)",
+      "Descripción categoría": " Las actividades de respuesta se coordinan con las partes interesadas internas y externas (por ejemplo, el apoyo externo de organismos encargados de hacer cumplir la ley). ",
+      "Subcategoría ": "RS.CO-4",
+      "Descripción Subcategoría": " La coordinación con las partes interesadas se realiza en consonancia con los planes de respuesta. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 92,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "2. Comunicaciones (RS.CO)",
+      "Descripción categoría": " Las actividades de respuesta se coordinan con las partes interesadas internas y externas (por ejemplo, el apoyo externo de organismos encargados de hacer cumplir la ley). ",
+      "Subcategoría ": "RS.CO-5",
+      "Descripción Subcategoría": " El intercambio voluntario de información se produce con las partes interesadas externas para lograr una mayor conciencia situacional de seguridad cibernética. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 93,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "3. Análisis (RS.AN)",
+      "Descripción categoría": " Se lleva a cabo el análisis para garantizar una respuesta eficaz y apoyar las actividades de recuperación. ",
+      "Subcategoría ": "RS.AN-1",
+      "Descripción Subcategoría": " sSe investigan las notificaciones de los sistemas de detección. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 94,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "3. Análisis (RS.AN)",
+      "Descripción categoría": " Se lleva a cabo el análisis para garantizar una respuesta eficaz y apoyar las actividades de recuperación. ",
+      "Subcategoría ": "RS.AN-2",
+      "Descripción Subcategoría": " Se comprende el impacto del incidente. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 95,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "3. Análisis (RS.AN)",
+      "Descripción categoría": " Se lleva a cabo el análisis para garantizar una respuesta eficaz y apoyar las actividades de recuperación. ",
+      "Subcategoría ": "RS.AN-3",
+      "Descripción Subcategoría": " Se realizan análisis forenses. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 96,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "3. Análisis (RS.AN)",
+      "Descripción categoría": " Se lleva a cabo el análisis para garantizar una respuesta eficaz y apoyar las actividades de recuperación. ",
+      "Subcategoría ": "RS.AN-4",
+      "Descripción Subcategoría": " Los incidentes se clasifican de acuerdo con los planes de respuesta. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 97,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "3. Análisis (RS.AN)",
+      "Descripción categoría": " Se lleva a cabo el análisis para garantizar una respuesta eficaz y apoyar las actividades de recuperación. ",
+      "Subcategoría ": "RS.AN-5",
+      "Descripción Subcategoría": " Se establecen procesos para recibir, analizar y responder a las vulnerabilidades divulgadas a la organización desde fuentes internas y externas (por ejemplo, pruebas internas, boletines de seguridad o investigadores de seguridad). ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 0
+    },
+    {
+      "id": 98,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "4. Mitigación (RS.MI)",
+      "Descripción categoría": " Se realizan actividades para evitar la expansión de un evento, mitigar sus efectos y resolver el incidente. ",
+      "Subcategoría ": "RS.MI-1",
+      "Descripción Subcategoría": " Los incidentes son contenidos. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 99,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "4. Mitigación (RS.MI)",
+      "Descripción categoría": " Se realizan actividades para evitar la expansión de un evento, mitigar sus efectos y resolver el incidente. ",
+      "Subcategoría ": "RS.MI-2",
+      "Descripción Subcategoría": " Los incidentes son mitigados. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 100,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "4. Mitigación (RS.MI)",
+      "Descripción categoría": " Se realizan actividades para evitar la expansión de un evento, mitigar sus efectos y resolver el incidente. ",
+      "Subcategoría ": "RS.MI-3",
+      "Descripción Subcategoría": " Las vulnerabilidades recientemente identificadas son mitigadas o se documentan como riesgos aceptados. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 101,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "5. Mejoras (RS.IM)",
+      "Descripción categoría": " Las actividades de respuesta de la organización se mejoran al incorporar las lecciones aprendidas de las actividades de detección y respuesta actuales y previas. ",
+      "Subcategoría ": "RS.IM-1",
+      "Descripción Subcategoría": " Los planes de respuesta incorporan las lecciones aprendidas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 50
+    },
+    {
+      "id": 102,
+      "Función ": "4. RESPONDER (RS) ",
+      "Categoría ": "5. Mejoras (RS.IM)",
+      "Descripción categoría": " Las actividades de respuesta de la organización se mejoran al incorporar las lecciones aprendidas de las actividades de detección y respuesta actuales y previas. ",
+      "Subcategoría ": "RS.IM-2",
+      "Descripción Subcategoría": " Se actualizan las estrategias de respuesta. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 103,
+      "Función ": "5. RECUPERAR (RC) ",
+      "Categoría ": "1. Planificación de la recuperación  (RC.RP)",
+      "Descripción categoría": " Los procesos y procedimientos de recuperación se ejecutan y se mantienen para asegurar la restauración de los sistemas o activos afectados por incidentes de seguridad cibernética. ",
+      "Subcategoría ": "RC.RP-1",
+      "Descripción Subcategoría": " El plan de recuperación se ejecuta durante o después de un incidente de seguridad cibernética. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 60
+    },
+    {
+      "id": 104,
+      "Función ": "5. RECUPERAR (RC) ",
+      "Categoría ": "2. Mejoras (RC.IM)",
+      "Descripción categoría": " La planificación y los procesos de recuperación se mejoran al incorporar en las actividades futuras las lecciones aprendidas. ",
+      "Subcategoría ": "RC.IM-1",
+      "Descripción Subcategoría": " Los planes de recuperación incorporan las lecciones aprendidas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 60
+    },
+    {
+      "id": 105,
+      "Función ": "5. RECUPERAR (RC) ",
+      "Categoría ": "2. Mejoras (RC.IM)",
+      "Descripción categoría": " La planificación y los procesos de recuperación se mejoran al incorporar en las actividades futuras las lecciones aprendidas. ",
+      "Subcategoría ": "RC.IM-2",
+      "Descripción Subcategoría": " Se actualizan las estrategias de recuperación. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 80
+    },
+    {
+      "id": 106,
+      "Función ": "5. RECUPERAR (RC) ",
+      "Categoría ": "3. Comunicaciones (RC.CO)",
+      "Descripción categoría": " Las actividades de restauración se coordinan con partes internas y externas (por ejemplo, centros de coordinación, proveedores de servicios de Internet, propietarios de sistemas de ataque, víctimas, otros CSIRT y vendedores). ",
+      "Subcategoría ": "RC.CO-1",
+      "Descripción Subcategoría": " Se gestionan las relaciones públicas. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 90
+    },
+    {
+      "id": 107,
+      "Función ": "5. RECUPERAR (RC) ",
+      "Categoría ": "3. Comunicaciones (RC.CO)",
+      "Descripción categoría": " Las actividades de restauración se coordinan con partes internas y externas (por ejemplo, centros de coordinación, proveedores de servicios de Internet, propietarios de sistemas de ataque, víctimas, otros CSIRT y vendedores). ",
+      "Subcategoría ": "RC.CO-2",
+      "Descripción Subcategoría": " La reputación se repara después de un incidente. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 100
+    },
+    {
+      "id": 108,
+      "Función ": "5. RECUPERAR (RC) ",
+      "Categoría ": "3. Comunicaciones (RC.CO)",
+      "Descripción categoría": " Las actividades de restauración se coordinan con partes internas y externas (por ejemplo, centros de coordinación, proveedores de servicios de Internet, propietarios de sistemas de ataque, víctimas, otros CSIRT y vendedores). ",
+      "Subcategoría ": "RC.CO-3",
+      "Descripción Subcategoría": " Las actividades de recuperación se comunican a las partes interesadas internas y externas, así como también a los equipos ejecutivos y de administración. ",
+      "Respuesta/comentario": "",
+      "Valoración % cumplimiento": 40
+    }
+  ]
+}
