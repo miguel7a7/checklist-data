@@ -1,0 +1,36 @@
+.grafica__container {
+  min-height: 100vh;
+  position: relative;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.grafica__content {
+  padding: 0.5rem;
+}
+
+.grafica__content h5 {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+  margin-top: 1rem;
+  font-weight: 700;
+}
+
+.grafica__contenedor {
+  background-color: #ffff;
+}
+
+@media screen and (min-width: 992px) {
+  .grafica__contenedor {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
+
+  .grafica__content h5 {
+    font-size: 1.3rem;
+    font-weight: 500;
+  }
+}

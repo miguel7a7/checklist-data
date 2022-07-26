@@ -1,13 +1,11 @@
-import React, { useContext } from 'react';
-import { ListContext } from '../context/ListContext';
-import { Modal } from './Modal';
+import React, { useContext } from "react";
+import { ListContext } from "../context/ListContext";
+import { Modal } from "./Modal";
 
 export const Table = () => {
   const { data, editarList, EstadoEdit } = useContext(ListContext);
 
   if (!data) return null;
-
-  const { dataList } = data;
 
   return (
     <div className="table-responsive">
@@ -24,7 +22,7 @@ export const Table = () => {
           </tr>
         </thead>
         <tbody>
-          {dataList.map((el) => (
+          {data.map((el) => (
             <tr key={el.id}>
               <td>{el.Función}</td>
               <td>{el.Categoría}</td>

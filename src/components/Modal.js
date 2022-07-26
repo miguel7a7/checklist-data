@@ -1,8 +1,8 @@
-import React, { useContext } from 'react';
-import { ListContext } from '../context/ListContext';
-import { useForm } from '../hooks/useForm';
+import React, { useContext } from "react";
+import { ListContext } from "../context/ListContext";
+import { useForm } from "../hooks/useForm";
 
-import './modal.css';
+import "./modal.css";
 
 export const Modal = () => {
   const { cerrarModal, eleEdit, editForm } = useContext(ListContext);
@@ -18,6 +18,9 @@ export const Modal = () => {
     }
 
     // Envio de formulario
+    FormValues.Valoración_cumplimiento = parseInt(
+      FormValues.Valoración_cumplimiento
+    );
     editForm(FormValues);
   };
 
