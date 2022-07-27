@@ -45,14 +45,15 @@ export const Modal = () => {
                 max={100}
               />
             </div>
+            <div className="modal__footer">
+              <button className="btn btn-danger" onClick={cerrarModal}>
+                Cancelar
+              </button>
+              <button type="submit" className="btn btn-primary">
+                Actualizar
+              </button>
+            </div>
           </form>
-        </div>
-
-        <div className="modal__footer">
-          <button className="btn btn-danger" onClick={cerrarModal}>
-            Cancelar
-          </button>
-          <button className="btn btn-primary">Actualizar</button>
         </div>
       </div>
     </div>
