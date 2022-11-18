@@ -37,3 +37,8 @@
   font-size: 13px;
   transition: color 0.5s ease;
 }
+
+.nav__date {
+  display: flex;
+  align-items: center;
+}

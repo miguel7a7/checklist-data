@@ -30,7 +30,10 @@ export const Table = () => {
               <td>{el.Subcategoría}</td>
               <td>{el.Descripción_Subcategoría}</td>
               {/* <td>{el.Respuesta_comentario}</td> */}
-              <td onDoubleClick={() => editarList(el)}>
+              <td
+                onDoubleClick={() => editarList(el)}
+                style={{ cursor: "pointer" }}
+              >
                 {el.Valoración_cumplimiento}%
               </td>
             </tr>

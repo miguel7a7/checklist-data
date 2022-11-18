@@ -27,14 +27,16 @@ export const Modal = () => {
   return (
     <div className="modal__container">
       <div className="modal__content">
+        <h5 className="modal__logo"> -- CheckList --</h5>
         <div className="modal__title">
-          <h5>Actualizar Valoración?</h5>
+          <h5>¿Actualizar Valoración?</h5>
         </div>
 
         <div className="modal__header">
           <form onSubmit={handleSubmit}>
             <div className="form-control">
               <input
+                className="modal__input"
                 type="number"
                 name="Valoración_cumplimiento"
                 id="valor"
@@ -44,13 +46,16 @@ export const Modal = () => {
                 min={0}
                 max={100}
               />
+              <small className="modal__mesaje">
+                Solo debe ingresar numeros
+              </small>
             </div>
             <div className="modal__footer">
-              <button className="btn btn-danger" onClick={cerrarModal}>
-                Cancelar
-              </button>
               <button type="submit" className="btn btn-primary">
                 Actualizar
+              </button>
+              <button className="btn btn-danger" onClick={cerrarModal}>
+                Cancelar
               </button>
             </div>
           </form>
